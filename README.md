@@ -78,10 +78,8 @@ Languages and Tools🛠:
 
 </div>
 
-### My Projects ✨: https://github.com/Jeussu?tab=repositories
-  
-
-  
+### My Projects ✨: 
+ <link rel="stylesheet" href="https://github.com/Jeussu?tab=repositories">
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Jeussu?tab=repositories)!
 
