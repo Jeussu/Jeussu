@@ -54,7 +54,7 @@ Languages and Tools🛠:
 </a>
 
 <a href="vinhdtgch17230@fpt.edu.vn/">
-  <img align="left" alt="Vinh gmail" width="22px" src="https://dizibrand-19a1e.kxcdn.com/wp-content/uploads/2020/05/gmail.png" />
+  <img align="left" alt="Vinh gmail" width="22px" src="https://dizibrand-19a1e.kxcdn.com/wp-content/uploads/2020/05/gmail.png" <link rel="stylesheet" href="https://mail.google.com/mail/u/1/?ogbl#inbox"> />
 </a>
 
 <br/>
