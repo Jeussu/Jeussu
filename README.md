@@ -85,7 +85,7 @@ Languages and Tools🛠:
 </a>
 
 <a href="https://github.com/Jeussu/Cloud-Computing-1644.git">
-  <img align="center" src="https://cdn.vietnambiz.vn/2019/9/9/20190826091807807-1568014246654624298664-1568014407308429996666.png" />
+  <img align="center" src="https://cdn.vietnambiz.vn/2019/9/9/20190826091807807-1568014246654624298664-1568014407308429996666.png"/>
 </a>
 
 <a href="https://github.com/Jeussu/Database-Design-Development-1622.git">
@@ -93,7 +93,7 @@ Languages and Tools🛠:
 </a>
 
 <a href="https://github.com/Jeussu/Website-Design-Development-1633-.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ren0503&repo=magnifier-js-forum&theme=tokyonight" />
+ <img align="center" src="https://lamvt.vn/wp-content/uploads/2017/03/php.jpg" padding: 12px 12px; />
 </a>
                                                                                                                                     
 <a href="https://github.com/Jeussu/-Business-Intelligence-1641.git">
