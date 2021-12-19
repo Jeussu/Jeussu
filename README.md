@@ -53,8 +53,8 @@ Languages and Tools🛠:
   <img align="left" alt="Ren's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<a href="vinhdtgch17230@fpt.edu.vn/">
-  <img align="left" alt="Vinh gmail" width="22px" src="https://dizibrand-19a1e.kxcdn.com/wp-content/uploads/2020/05/gmail.png" <link rel="stylesheet" href="https://mail.google.com/mail/u/1/?ogbl#inbox"> />
+<a href="<h4>vinhdtgch17230@fpt.edu.vn</h4>/">
+  <img align="left" alt="Vinh gmail" width="22px" src="https://dizibrand-19a1e.kxcdn.com/wp-content/uploads/2020/05/gmail.png" />
 </a>
 
 <br/>
