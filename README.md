@@ -8,7 +8,7 @@ I am interested in learning Programing Language, Web Framework, web app, and som
 - 🌱 I’m currently learning front-end Development.
 - 👯 I’m looking to collaborate with Front-end webs and webs app.
 - 🤔 I’m looking for help with Open source Contribution.
-- 😄 Pronouns: Jeussu
+- 😄 Pronouns: Jeussu(The Vinh)
 - ⚡ Fun fact: I 💖 try hard, persevere to succeed
 - 📫 How to reach me: https://www.facebook.com/chikkippo/
 
