@@ -78,33 +78,9 @@ Languages and Tools🛠:
 
 </div>
 
-### My Projects ✨:
+### My Projects ✨: https://github.com/Jeussu?tab=repositories
   
-<a href="https://github.com/Jeussu/Application-Development--.NET-Framework.git">
-  <img align="center" src="https://saigonpixel.vn/Upload/images/Blog/4/ngon-ngu-net.png" />
-</a>
 
-<a href="https://github.com/Jeussu/Cloud-Computing-1644.git">
-  <img align="center" src="https://cdn.vietnambiz.vn/2019/9/9/20190826091807807-1568014246654624298664-1568014407308429996666.png"/>
-</a>
-
-<a href="https://github.com/Jeussu/Database-Design-Development-1622.git">
- <img align="center" src="https://dizibrand-19a1e.kxcdn.com/wp-content/uploads/2021/02/sql-dizibrand-2.png" />
-</a>
-
-<a href="https://github.com/Jeussu/Website-Design-Development-1633-.git">
- <img align="center" src="https://lamvt.vn/wp-content/uploads/2017/03/php.jpg" padding: 12px 12px; />
-</a>
-                                                                                                                                    
-<a href="https://github.com/Jeussu/-Business-Intelligence-1641.git">
- <img align="center" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/38787wallpaper.png" />
-</a>
-
-<a href="https://github.com/Jeussu/Software-Development-Life-Cycles-1631.git">
- <img align="center" src="https://svitla.com/uploads/0/1376-development_lifecycle.jpg" />
-</a>
-
-<div align="center">
   
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Jeussu?tab=repositories)!
