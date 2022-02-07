@@ -65,9 +65,7 @@ Languages and Tools🛠:
 
 <div>
 
-<a href="https://github.com/Ren0503">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ren0503&theme=tokyonight" />
-</a>
+
 
 <br/>
 <br/>
