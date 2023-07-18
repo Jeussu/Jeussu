@@ -53,7 +53,7 @@ Languages and Tools🛠:
   <img align="left" alt="Ren's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<h4>vinhdtgch17230@fpt.edu.vn</h4>
+<h4>vinhdt1406@gmail.com</h4>
 
 <br/>
 
