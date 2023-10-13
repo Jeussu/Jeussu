@@ -10,7 +10,7 @@ I am interested in learning Programing Language, Web Framework, web app, and som
 - 🤔 I’m looking for help with Open source Contribution.
 - 😄 Pronouns: Jeussu(The Vinh)
 - ⚡ Fun fact: I 💖 try hard, persevere to succeed
-- 📫 How to reach me: https://www.facebook.com/chikkippo/
+- 📫 How to reach me: vinhdt1406@gmail.com
 
 <br/>
 
