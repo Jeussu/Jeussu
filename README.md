@@ -1,22 +1,41 @@
-# Đỗ Thế Vinh — ERP Developer (.NET)
+# Đỗ Thế Vinh — Backend / ERP Developer (.NET)
 
-I build and maintain ERP modules end-to-end with a focus on **performance**, **data/reporting**, and **system integrations**.
+I build and maintain **ERP modules end-to-end** with a focus on **performance**, **data/reporting**, and **system integrations**.
 
-- Domains: **AIR, FWD, E-commerce, Import/Export, Domestic, Finance, Warehouse, Operations**
-- Impact: **−40% report time**, **−30% query cost**, deployed Warehouse module across branches
-- Tech: **.NET / WinForms / ASP.NET**, **DevExpress**, **SQL Server / MySQL**, **GitHub Actions**
-
-## Contact
-- Email: **vinhdt1406@gmail.com**
-- CV: [View my CV](https://www.topcv.vn/xem-cv/BFELVgUDXQVUDwQBUQAAWARXXA9RVVZbVwsGXA5891?fbclid=IwY2xjawNUSFBleHRuA2FlbQIxMABicmlkETEyWUF5bUY5ZnZRMGUwQ0NTAR5_89mLdxm-_fQWpfYwLTyyo0sk6ZGkqehqR3pE4B61Rd1vJlBiI7sthiz8Mw_aem_8B8PKg0Fk7ERwhzi3LQN2g)
-
-## Tooling
-`C#` • `.NET` • `WinForms` • `ASP.NET` • `DevExpress` • `SQL Server` • `MySQL` • `GitHub Actions` • `Git`
-
-## GitHub Stats
-![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeussu&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeussu&layout=compact)
+- **Impact:** cut report time **~40%**, reduced query cost **~30%**, and deployed warehouse modules across branches  
+- **Domains:** AIR, FWD, E-commerce, Import/Export, Domestic, **Finance**, **Warehouse**, **Operations**
+- **Stack:** **C# / .NET (Framework & Core)**, **WinForms**, **ASP.NET (Web API/MVC)**, **DevExpress**, **SQL Server / MySQL**, **GitHub Actions**, **WCF**
 
 ---
 
-_Last edited: 2025-10-09_
+## Highlights
+- **ERP / Logistics platform (H2ALL / FastLink)** — owned and enhanced modules across **Warehouse V1/V3**, **Checkpoint**, **Finance**, **HR**, **GPS**, **Reporting**.  
+  Improved reporting latency and DB spend (↑efficiency, ↓cost) and standardized DTO/BL/DL patterns across services.
+- **Warehouse V3** — inbound/outbound flows, **cell/location** management, stock audit, PO reconciliation; Excel/printing integrations; multi-partner support.
+- **Checkpoint / Linehaul** — check-in/out, handover, tracking, customs docs; online booking; partner integrations (e.g., marketplaces/carriers).
+- **Finance** — invoicing, revenue/cost reports, receivables reconciliation; DevExpress report templates and exports.
+- **Engineering practices** — layered architecture (BL/DL/DTO), transaction safety, parameterized SQL, structured logging, CI with GitHub Actions.
+
+---
+
+## Tech Toolkit
+**Languages & Frameworks:** C#, .NET (Framework & 6+), WinForms, ASP.NET, WCF  
+**Databases:** SQL Server, MySQL (procedures, performance tuning, indexing)  
+**UI & Reports:** DevExpress (WinForms, reporting), printing/excel export  
+**Ops & CI:** Git, GitHub Actions, ClickOnce/desktop deployment  
+**Patterns:** REST, layered modules, DTO mapping, background jobs/scheduling
+
+---
+
+## Contact
+- 📧 **vinhdt1406@gmail.com**
+- 📄 **CV:** [View my CV](https://www.topcv.vn/xem-cv/BFELVgUDXQVUDwQBUQAAWARXXA9RVVZbVwsGXA5891?fbclid=IwY2xjawNUSFBleHRuA2FlbQIxMABicmlkETEyWUF5bUY5ZnZRMGUwQ0NTAR5_89mLdxm-_fQWpfYwLTyyo0sk6ZGkqehqR3pE4B61Rd1vJlBiI7sthiz8Mw_aem_8B8PKg0Fk7ERwhzi3LQN2g)
+<!-- Optional: add LinkedIn when ready -->
+
+---
+
+## GitHub at a glance
+![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeussu&show_icons=true&include_all_commits=true&count_private=true&line_height=24)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeussu&layout=compact)
+
+> _Last edited: 2025-10-09_
