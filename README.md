@@ -29,7 +29,7 @@ I build and maintain **ERP modules end-to-end** with a focus on **performance**,
 
 ## Contact
 - 📧 **vinhdt1406@gmail.com**
-- 📄 **CV:** [View my CV](https://www.topcv.vn/xem-cv/BFELVgUDXQVUDwQBUQAAWARXXA9RVVZbVwsGXA5891?fbclid=IwY2xjawNUSFBleHRuA2FlbQIxMABicmlkETEyWUF5bUY5ZnZRMGUwQ0NTAR5_89mLdxm-_fQWpfYwLTyyo0sk6ZGkqehqR3pE4B61Rd1vJlBiI7sthiz8Mw_aem_8B8PKg0Fk7ERwhzi3LQN2g)
+- 📄 **CV:** [View my CV](https://www.topcv.vn/xem-cv/A1dVAVZVVg1YAANSAAIGUQQFBgIFAA5bCgEHBg9bb9)
 <!-- Optional: add LinkedIn when ready -->
 
 ---
