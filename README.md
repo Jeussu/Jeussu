@@ -35,7 +35,7 @@ I build and maintain **ERP modules end-to-end** with a focus on **performance**,
 ---
 
 ## GitHub at a glance
-![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeussu&show_icons=true&include_all_commits=true&count_private=true&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeussu&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/Jeussu?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Jeussu?affiliations=OWNER%2CCOLLABORATOR)
 
 > _Last edited: 2025-10-09_
