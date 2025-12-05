@@ -35,7 +35,35 @@ I build and maintain **ERP modules end-to-end** with a focus on **performance**,
 ---
 
 ## GitHub at a glance
-![GitHub followers](https://img.shields.io/github/followers/Jeussu?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Jeussu?affiliations=OWNER%2CCOLLABORATOR)
+
+<p>
+  <img src="https://img.shields.io/github/followers/Jeussu?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Jeussu?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-ERP%20%2F%20Logistics-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20C%23-blue?style=flat-square" />
+</p>
+
+<table>
+  <tr>
+    <td>
+
+**What I build here**
+
+- ERP modules: Warehouse, Checkpoint/Linehaul, Finance
+- Reporting & dashboards (DevExpress, SQL Server/MySQL)
+- System integrations: marketplaces, carriers, customs
+
+    </td>
+    <td>
+
+**Current focus**
+
+- Optimizing heavy reports & DB queries
+- Refactoring legacy WinForms / ASP.NET modules
+- CI/CD & deployment with GitHub Actions
+
+    </td>
+  </tr>
+</table>
 
 > _Last edited: 2025-10-09_
