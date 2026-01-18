@@ -1,69 +1,59 @@
-# Đỗ Thế Vinh — Backend / ERP Developer (.NET)
+# Do The Vinh — Full-Stack .NET Desktop Developer (WPF/WinForms)
 
-I build and maintain **ERP modules end-to-end** with a focus on **performance**, **data/reporting**, and **system integrations**.
+I build and maintain **ERP/Logistics desktop tools end-to-end** — from **WPF/WinForms UI** to **business logic** and **SQL Server/MySQL** — with a strong focus on **performance**, **reporting**, and **cross-module integrations**.
 
-- **Impact:** cut report time **~40%**, reduced query cost **~30%**, and deployed warehouse modules across branches  
-- **Domains:** AIR, FWD, E-commerce, Import/Export, Domestic, **Finance**, **Warehouse**, **Operations**
-- **Stack:** **C# / .NET (Framework & Core)**, **WinForms**, **ASP.NET (Web API/MVC)**, **DevExpress**, **SQL Server / MySQL**, **GitHub Actions**, **WCF**
+- **Impact:** reduced heavy report runtimes by **~40%** and lowered database query cost by **~30%** through batching, indexing, and execution-plan tuning  
+- **Domains:** Warehouse (Inbound/Outbound/Inventory/Location–Cell), Checkpoint/Handover, Finance/AR, E-commerce, GPS, Operations, Reporting  
+- **Stack:** **C#/.NET (Framework & Core)**, **WPF**, **WinForms**, **DevExpress (UI & Reporting)**, **SQL Server/MySQL**, **ASP.NET (Web API/MVC)**, **WCF**, **GitHub Actions**
 
 ---
 
 ## Highlights
-- **ERP / Logistics platform (H2ALL / FastLink)** — owned and enhanced modules across **Warehouse V1/V3**, **Checkpoint**, **Finance**, **HR**, **GPS**, **Reporting**.  
-  Improved reporting latency and DB spend (↑efficiency, ↓cost) and standardized DTO/BL/DL patterns across services.
-- **Warehouse V3** — inbound/outbound flows, **cell/location** management, stock audit, PO reconciliation; Excel/printing integrations; multi-partner support.
-- **Checkpoint / Linehaul** — check-in/out, handover, tracking, customs docs; online booking; partner integrations (e.g., marketplaces/carriers).
-- **Finance** — invoicing, revenue/cost reports, receivables reconciliation; DevExpress report templates and exports.
-- **Engineering practices** — layered architecture (BL/DL/DTO), transaction safety, parameterized SQL, structured logging, CI with GitHub Actions.
+- **H2ALL / FastLink (ERP/Logistics platform)** — delivered and maintained internal modules/tools end-to-end across **Warehouse**, **Checkpoint**, **Finance**, **HR**, **GPS**, and **Reporting** (NDA-safe overview).  
+- **Warehouse V3** — inbound/outbound workflows, **cell/location** mapping, stock audit, PO reconciliation; printing/Excel export utilities for operations.  
+- **Checkpoint / Linehaul** — check-in/out, handover, tracking, customs documents; partner/integration touchpoints (marketplaces/carriers).  
+- **Finance** — invoicing, revenue/cost reports, receivables reconciliation; reusable DevExpress report templates and exports.  
+- **Engineering practices** — layered architecture (Handler/BL/DL/DTO), transaction-safe flows, parameterized SQL, structured logging, CI with GitHub Actions.
 
 ---
 
 ## Tech Toolkit
-**Languages & Frameworks:** C#, .NET (Framework & 6+), WinForms, ASP.NET, WCF  
-**Databases:** SQL Server, MySQL (procedures, performance tuning, indexing)  
-**UI & Reports:** DevExpress (WinForms, reporting), printing/excel export  
-**Ops & CI:** Git, GitHub Actions, ClickOnce/desktop deployment  
-**Patterns:** REST, layered modules, DTO mapping, background jobs/scheduling
+**Desktop UI:** WPF, WinForms, DevExpress (UI & Reporting)  
+**Backend/.NET:** C#, .NET, ASP.NET Core, REST/WCF, LINQ  
+**Data:** SQL Server, MySQL (stored procedures, indexing, batching, execution-plan tuning)  
+**Delivery:** Git, GitHub Actions, ClickOnce/Desktop release workflow, Azure App Service (where applicable)  
+**Architecture:** Client–Server, multi-tier modules, DTO contracts, transactional BL/DL patterns
+
+---
+
+## Featured Projects
+- **BulkyBook (v2)** — ASP.NET Core MVC, MySQL, Identity, Stripe payments, admin CRUD  
+  Live: _[add link]_ • GitHub: _[add link]_
+- **BulkyBook (v1)** — simplified version (auth/admin)  
+  Live: _[add link]_ • GitHub: _[add link]_
+- **Shopee UI Clone** — HTML/CSS learning project  
+  GitHub: _[add link]_
+- **Mini H2ALL (Capstone, In Progress)** — .NET 7 WebAPI + EF Core + PostgreSQL + Docker Compose + RabbitMQ/MassTransit  
+  Roadmap: EF Core migrations • 40+ unit tests • messaging workflow • CI/CD pipeline
 
 ---
 
 ## Contact
-- 📧 **vinhdt1406@gmail.com**
-- 📄 **CV:** [View my CV](https://www.topcv.vn/xem-cv/A1dVAVZVVg1YAANSAAIGUQQFBgIFAA5bCgEHBg9bb9)
-<!-- Optional: add LinkedIn when ready -->
+- Email: **vinhdt1406@gmail.com**
+- CV: **https://www.topcv.vn/xem-cv/A1dVAVZVVg1YAANSAAIGUQQFBgIFAA5bCgEHBg9bb9**
+- Portfolio: **https://vinh-portfolio-self.vercel.app**  
+  (Optional: add LinkedIn when ready)
 
 ---
 
 ## GitHub at a glance
-
 <p>
   <img src="https://img.shields.io/github/followers/Jeussu?label=Followers&style=flat-square" />
   <img src="https://img.shields.io/github/stars/Jeussu?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" />
   <img src="https://img.shields.io/badge/Domain-ERP%20%2F%20Logistics-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20C%23-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/.NET-Desktop-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/WPF-ready?style=flat-square" />
+  <img src="https://img.shields.io/badge/WinForms-DevExpress?style=flat-square" />
 </p>
 
-<table>
-  <tr>
-    <td>
-
-**What I build here**
-
-- ERP modules: Warehouse, Checkpoint/Linehaul, Finance
-- Reporting & dashboards (DevExpress, SQL Server/MySQL)
-- System integrations: marketplaces, carriers, customs
-
-    </td>
-    <td>
-
-**Current focus**
-
-- Optimizing heavy reports & DB queries
-- Refactoring legacy WinForms / ASP.NET modules
-- CI/CD & deployment with GitHub Actions
-
-    </td>
-  </tr>
-</table>
-
-> _Last edited: 2025-10-09_
+> NDA disclaimer: This profile describes architecture and outcomes without sharing proprietary source code.
