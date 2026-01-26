@@ -37,6 +37,6 @@ I use AI to accelerate delivery **with verification-first discipline**:
 
 ## Public work (pinned)
 - **Portfolio:** https://vinh-portfolio-self.vercel.app  
-- **CV:** https://www.topcv.vn/xem-cv/A1dVAVZVVg1YAANSAAIGUQQFBgIFAA5bCgEHBg9bb9  
+- **CV (PDF):** https://drive.google.com/file/d/10wdQDhaehoLF9H0JlTtEFaPUCnCRPFhZ/view?usp=sharing
 
 > Tip: Pin 3–5 repos that demonstrate your strengths (reporting, batching, SQL patterns, .NET services).
